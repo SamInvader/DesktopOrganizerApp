@@ -20,6 +20,16 @@ A fancy, lightweight desktop file organizer built with Python and Kivy.
 3. Click any category (e.g., Images) to view only that type of file
 4. Use the ⚙️ Settings button to toggle auto-start and startup category
 
+---
+
+## 📥 Download App
+
+[![Download](https://img.shields.io/badge/Download%20App-%F0%9F%92%BE-blue?style=for-the-badge)](https://example.com/path-to-desktoporganizer.exe)
+
+> 🔗 Replace the link with your actual `.exe` or `.zip` file location (e.g., Google Drive, GitHub Releases, Dropbox).
+
+---
+
 ## 🛠 Requirements (for development)
 - Windows OS
 
