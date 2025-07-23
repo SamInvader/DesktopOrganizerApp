@@ -53,4 +53,7 @@ Want to see all previous versions or download alternate builds?
 
 ---
 
+## Password:
+- 0000
+
 **Made with 💙 by SamInvader**
