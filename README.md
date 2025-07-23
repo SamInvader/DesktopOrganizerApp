@@ -32,13 +32,12 @@ A fancy, lightweight desktop file organizer built with Python and Kivy.
 1. Run the installer (`DesktopOrganizerSetup.exe`)  
 2. Launch the app via Start Menu or Desktop  
 3. Click any category (e.g., Images) to view only that type of file  
-4. Click ⚙️ Settings to configure startup behavior & default category  
+4. Click Settings to configure startup behavior & default category  
 
 ---
 
 ## 📥 Download App  
-[![Download](https://img.shields.io/badge/Download%20App-%F0%9F%92%BE-blue?style=for-the-badge)](https://example.com/path-to-desktoporganizer.exe)  
-> 🔗 Replace with your actual `.exe` or `.zip` file link (e.g., Google Drive, GitHub Releases, Dropbox)
+[![Download](https://img.shields.io/badge/Download%20App-%F0%9F%92%BE-blue?style=for-the-badge)](https://example.com/path-to-desktoporganizer.exe)
 
 ---
 
