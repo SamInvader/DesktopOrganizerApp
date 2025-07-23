@@ -41,6 +41,13 @@ A fancy, lightweight desktop file organizer built with Python and Kivy.
 
 ---
 
+## 📦 Releases  
+Want to see all previous versions or download alternate builds?
+
+👉 **[📁 View All Releases](https://github.com/SamInvader/DesktopOrganizerApp/releases)**
+
+---
+
 ## 🛠 Requirements (for development)  
 - Windows OS  
 
