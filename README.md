@@ -49,7 +49,8 @@ Want to see all previous versions or download alternate builds?
 ---
 
 ## 🛠 Requirements (for development)  
-- Windows OS  
+- Windows OS
+- OpenGL version of at least 2.0
 
 ---
 
